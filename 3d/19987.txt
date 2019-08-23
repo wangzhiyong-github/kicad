@@ -1,0 +1,16 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.1.6";"";
+"SUPPLIER";"Omron";"";
+"TraceParts.PartStatus";"Published";"";
+"RS_STOCK_NUMBER";"6821266";"";
+"REVISION";"A";"";
+"DESIGN";"Switch Tact,6x6mm,flat act,gen purp,bag";"";
+"TraceParts.InstanceId";"10-15082011-0901037Z9YXTN2RDLAIDVRIYKS44SP1";"";
+"TraceParts.PartTitle";"Switch Tact,6x6mm,flat act,gen purp,bag";"";
+"TraceParts.PartStatusId";"";"";
+"TraceParts.PartNumber";"10-15082011-090103";"";
+"REFERENCE";"B3FS-1010";"";
+"TIMESTAMP";"11/11/2013 12:03:00";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.ClassPath";"/F_RS_COMPONENTS/PSSS_428047/PSS_428058/PSF_428217/";"";
