@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-(module 0603_LED_Small (layer F.Cu) (tedit 5D901FAF)
+(module 0603_LED_Small (layer F.Cu)
   (fp_text reference REF** (at 0 -1.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -30,8 +29,7 @@
     (rotate (xyz 0 0 0))
   )
 )
-=======
-(module 0603_LED_Small (layer F.Cu) (tedit 5D901FAF)
+(module 0603_LED_Small (layer F.Cu) 
   (fp_text reference REF** (at 0 -1.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -62,4 +60,3 @@
     (rotate (xyz 0 0 0))
   )
 )
->>>>>>> 8056789581e8fa7cd1c0f90e4abb72c9c5137bc0
