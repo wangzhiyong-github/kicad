@@ -1,8 +1,8 @@
-(module sry-f3mm (layer F.Cu) (tedit 5CC26809)
+(module SRY-F3MM (layer F.Cu) (tedit 5E251910)
   (fp_text reference REF** (at 0 4.826) (layer F.SilkS) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value SRF-F3MM (at 0 -4.826) (layer F.Fab)
+  (fp_text value SRY-F3MM (at 0 -4.826) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -3.81 -3.81) (end 3.81 -3.81) (layer F.SilkS) (width 0.15))
